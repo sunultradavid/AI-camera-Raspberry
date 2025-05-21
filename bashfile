@@ -1,0 +1,23 @@
+OpenCV includes a pre-trained classifier for upper body detection:
+
+/usr/share/opencv4/haarcascades/haarcascade_upperbody.xml
+
+If it's not there, you can manually download it:
+
+🔧 Requirements:
+sudo apt update
+sudo apt install python3-opencv
+
+ OpenCV Haar Cascade for Upper Body:
+
+/usr/share/opencv4/haarcascades/haarcascade_upperbody.xml
+
+If it's not there, you can manually download it:
+
+wget https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_upperbody.xml
+
+🔹 Install Email Dependencies:
+pip3 install yagmail
+
+
+
